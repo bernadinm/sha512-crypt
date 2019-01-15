@@ -1,4 +1,4 @@
-# SHA512 Passwd Generator
+# Simple SHA512 Passwd Generator
 
 ## Instructions
 
