@@ -2,4 +2,6 @@
 
 ## Instructions
 
-`docker run -it bernadinm/sha512 <password>`
+```bash
+docker run -it bernadinm/sha512 <password>
+```
