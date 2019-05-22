@@ -3,7 +3,7 @@
 ## Instructions
 
 ```bash
-docker run -it bernadinm/sha512 <password>
+docker run -it bernadinm/sha512 '<password>'
 ```
 
 ## Verify Password
